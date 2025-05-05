@@ -17,10 +17,9 @@ This project is a static clone of a homepage layout created using only **HTML** 
 
 ## Project Structure
 
-├── index.html
-├── styles.css
-├── images/
-│ └── ( like box1_3.jpg, box2_1.jpg, etc.)
+index.html
+style.css
+images ( like box1_3.jpg, box2_1.jpg, etc.)
 
 bash
 Copy
@@ -30,4 +29,17 @@ Edit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ivie16/Amazon_clone.git
+
+2. Navigate into the project folder:
+   cd Amazon_clone
+   
+3.Open index.html in your browser.
+
+##  Live Demo
+
+ https://ivie16.github.io/Amazon_clone/
+
+## Note
+
+This is a front-end-only project and does not contain any backend functionality.
