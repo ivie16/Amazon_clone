@@ -1,5 +1,4 @@
-# Amazon_clone
-# Homepage Clone using HTML & CSS
+# Amazon_clone ( Homepage Clone using HTML & CSS)
 
 This project is a static clone of a homepage layout created using only **HTML** and **CSS**. It focuses on the visual design of a typical e-commerce homepage, featuring grid layouts, promotional sections, and responsive design elements.
 
